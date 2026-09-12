@@ -131,8 +131,9 @@ cd Fine-Lodges
 - ✅ Email confirmation
 
 ---
+'''bash
 pkg update && pkg upgrade -y && pkg install python git -y && termux-setup-storage && cd /sdcard && git clone https://github.com/Rg100152/Fine-Lodges.git && cd Fine-Lodges && python -m http.server 8080
-
+'''bash
 ## 👨‍💻 Author
 
 <div align="center">
