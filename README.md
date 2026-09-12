@@ -102,6 +102,8 @@ cd Fine-Lodges
 - Confirm Booking button
 
 ---
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/52066c15-0044-4bc7-891e-5eb580c41821" />
+
 
 ## 🎨 Tech Stack
 
